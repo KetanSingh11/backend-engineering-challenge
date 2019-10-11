@@ -1,5 +1,8 @@
 # Backend Engineering Challenge
 
+## Solution
+- Read: [Setup and Run](setup.md)
+----
 
 Welcome to our Engineering Challenge repository 🖖
 
